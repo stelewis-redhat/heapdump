@@ -1,4 +1,4 @@
-package org.heapdump;
+package net.stelewis.heapdump;
 
 import java.io.IOException;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package org.heapdump;
+package net.stelewis.heapdump;
 
 import com.sun.management.HotSpotDiagnosticMXBean;
 
